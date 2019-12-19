@@ -1,0 +1,6 @@
+https://courses.cognitiveclass.ai/courses/course-v1:Cognitiveclass+PY0101EN+v2/courseware/89227024130b43f684d95376901b65c8/aed4761a25e64d57af95da56a15ac609/
+
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-1-Conditions.ipynb
+
+https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/courseware/8dbed036880941c0848fc10aba85daa9/ebbc47f15cfc41d5a462090c4c88d895/
